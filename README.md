@@ -7,7 +7,8 @@
 supply materials for TIE paper
 
 ## 📝 How to run?
-
+Unlike projects that use a requirements.txt file, this project utilizes Poetry for environment management. To run the project, please ensure Poetry is installed and execute the following command:
+poetry run python multi_driving_cycles_process.py
 
 ## 🚀 What is included?
 - **高精度预测**：利用长短期记忆网络 (LSTM) 捕捉时间序列特征。
