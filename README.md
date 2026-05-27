@@ -17,3 +17,4 @@ poetry run python multi_driving_cycles_process.py
 For detailed implementation, including hyperparameters and the training pipeline, please refer to multi_driving_cycles_process.py
 The trained weights has been saved in .pth
 
+![The merged driving cycle in simulation section.](./figs/Driving_cycle_for_sim.pdf)
