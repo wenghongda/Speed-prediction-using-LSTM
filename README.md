@@ -8,7 +8,7 @@ supply materials for TIE paper
 
 ## 📝 How to run?
 Unlike projects that use a requirements.txt file, this project utilizes [Poetry](https://python-poetry.org/) for environment management. 
-To run the project, please ensure Poetry is installed and execute the following command:
+To run the project, please ensure Poetry is installed and execute the following command in terminal:
 ```
 poetry install # to install all the dependencies.
 poetry run python multi_driving_cycles_process.py
