@@ -16,15 +16,15 @@ poetry run python multi_driving_cycles_process.py
 ## 🚀 What is included?
 For detailed implementation, including hyperparameters and the training pipeline, please refer to multi_driving_cycles_process.py
 
-The driving cycle used in the simulation is:
+The driving cycle used in the simulation, whose name is  is:
 ![The merged driving cycle in simulation section.](./figs/merged.png)
 
 It is derived from two driving cycles, which is:
 
-First
+First, from 1 s - 600 s
 
 ![The Guiyang City.](./figs/guiyang.png)
 
-Second
+Second, from 1 s - 1200 s
 
 ![The other.](./figs/real6.png)
