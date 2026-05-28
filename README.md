@@ -15,6 +15,16 @@ poetry run python multi_driving_cycles_process.py
 ```
 ## 🚀 What is included?
 For detailed implementation, including hyperparameters and the training pipeline, please refer to multi_driving_cycles_process.py
-The trained weights has been saved in .pth
 
-![The merged driving cycle in simulation section.](./figs/Driving_cycle_for_sim.pdf)
+The driving cycle used in the simulation is:
+![The merged driving cycle in simulation section.](./figs/merged.png)
+
+It is derived from two driving cycles, which is:
+
+First
+
+![The Guiyang City.](./figs/guiyang.png)
+
+Second
+
+![The other.](./figs/real6.png)
