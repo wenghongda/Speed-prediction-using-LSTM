@@ -28,3 +28,12 @@ First, dataset/Guiyang_city.mat, from 1 s - 600 s
 Second, dataset/real_drive_cycle6.mat, from 1 s - 1200 s
 
 ![The other.](./figs/real6.png)
+
+
+Speed prediction trajectories
+
+Through AR model:
+![AR model](./figs/AR_real6.png)
+
+Through LSTM model:
+![AR model](./figs/lstm_pred.png)
